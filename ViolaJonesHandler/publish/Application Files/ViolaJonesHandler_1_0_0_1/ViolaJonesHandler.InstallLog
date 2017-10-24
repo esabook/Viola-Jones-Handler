@@ -1,0 +1,26 @@
+﻿Installing assembly 'E:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\publish\Application Files\ViolaJonesHandler_1_0_0_1\ViolaJonesHandler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\publish\Application Files\ViolaJonesHandler_1_0_0_1\ViolaJonesHandler.InstallLog
+   assemblypath = E:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\publish\Application Files\ViolaJonesHandler_1_0_0_1\ViolaJonesHandler.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the E:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\publish\Application Files\ViolaJonesHandler_1_0_0_1\ViolaJonesHandler.exe assembly.
+Committing assembly 'E:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\publish\Application Files\ViolaJonesHandler_1_0_0_1\ViolaJonesHandler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\publish\Application Files\ViolaJonesHandler_1_0_0_1\ViolaJonesHandler.InstallLog
+   assemblypath = E:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\publish\Application Files\ViolaJonesHandler_1_0_0_1\ViolaJonesHandler.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the E:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\publish\Application Files\ViolaJonesHandler_1_0_0_1\ViolaJonesHandler.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'E:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\publish\Application Files\ViolaJonesHandler_1_0_0_1\ViolaJonesHandler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\publish\Application Files\ViolaJonesHandler_1_0_0_1\ViolaJonesHandler.InstallLog
+   assemblypath = E:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\publish\Application Files\ViolaJonesHandler_1_0_0_1\ViolaJonesHandler.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the E:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\publish\Application Files\ViolaJonesHandler_1_0_0_1\ViolaJonesHandler.exe assembly.
+Committing assembly 'E:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\publish\Application Files\ViolaJonesHandler_1_0_0_1\ViolaJonesHandler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\publish\Application Files\ViolaJonesHandler_1_0_0_1\ViolaJonesHandler.InstallLog
+   assemblypath = E:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\publish\Application Files\ViolaJonesHandler_1_0_0_1\ViolaJonesHandler.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the E:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\publish\Application Files\ViolaJonesHandler_1_0_0_1\ViolaJonesHandler.exe assembly.
+Remove InstallState file because there are no installers.

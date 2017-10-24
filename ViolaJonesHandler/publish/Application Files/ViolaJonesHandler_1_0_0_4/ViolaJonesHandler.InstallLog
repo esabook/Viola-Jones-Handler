@@ -1,0 +1,33 @@
+﻿Installing assembly 'E:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\publish\Application Files\ViolaJonesHandler_1_0_0_4\ViolaJonesHandler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\publish\Application Files\ViolaJonesHandler_1_0_0_4\ViolaJonesHandler.exe
+   logfile = E:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\publish\Application Files\ViolaJonesHandler_1_0_0_4\ViolaJonesHandler.InstallLog
+Installing service ViolaJonesHandler...
+Service ViolaJonesHandler has been successfully installed.
+Creating EventLog source ViolaJonesHandler in log Application...
+Committing assembly 'E:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\publish\Application Files\ViolaJonesHandler_1_0_0_4\ViolaJonesHandler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\publish\Application Files\ViolaJonesHandler_1_0_0_4\ViolaJonesHandler.exe
+   logfile = E:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\publish\Application Files\ViolaJonesHandler_1_0_0_4\ViolaJonesHandler.InstallLog
+Uninstalling assembly 'E:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\publish\Application Files\ViolaJonesHandler_1_0_0_4\ViolaJonesHandler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\publish\Application Files\ViolaJonesHandler_1_0_0_4\ViolaJonesHandler.exe
+   logfile = E:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\publish\Application Files\ViolaJonesHandler_1_0_0_4\ViolaJonesHandler.InstallLog
+Removing EventLog source ViolaJonesHandler.
+Service ViolaJonesHandler is being removed from the system...
+Service ViolaJonesHandler was successfully removed from the system.
+Attempt to stop service ViolaJonesHandler.
+Uninstalling assembly 'E:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\publish\Application Files\ViolaJonesHandler_1_0_0_4\ViolaJonesHandler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\publish\Application Files\ViolaJonesHandler_1_0_0_4\ViolaJonesHandler.exe
+   logfile = E:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\publish\Application Files\ViolaJonesHandler_1_0_0_4\ViolaJonesHandler.InstallLog
+Removing EventLog source ViolaJonesHandler.
+Warning: The source ViolaJonesHandler is not registered on the local machine.
+Service ViolaJonesHandler is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.

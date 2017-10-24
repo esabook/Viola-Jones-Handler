@@ -1,0 +1,26 @@
+e:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\bin\Debug\ViolaJonesHandler.exe.config
+e:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\bin\Debug\ViolaJonesHandler.exe.manifest
+e:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\bin\Debug\ViolaJonesHandler.application
+e:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\bin\Debug\ViolaJonesHandler.exe
+e:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\bin\Debug\ViolaJonesHandler.pdb
+e:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\obj\Debug\ViolaJonesHandler.csprojResolveAssemblyReference.cache
+e:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\obj\Debug\ViolaJonesHandler.ProjectInstaller.resources
+e:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\obj\Debug\ViolaJonesHandler.Service1.resources
+e:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\obj\Debug\ViolaJonesHandler.csproj.GenerateResource.Cache
+e:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\obj\Debug\ViolaJonesHandler.exe.manifest
+e:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\obj\Debug\ViolaJonesHandler.application
+e:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\obj\Debug\ViolaJonesHandler.exe
+e:\DOCUMENTS\Visual Studio 2013\Projects\ViolaJonesHandler\ViolaJonesHandler\obj\Debug\ViolaJonesHandler.pdb
+E:\DOCUMENTS\Visual Studio 2015\Projects\ViolaJonesHandler\ViolaJonesHandler\bin\Debug\ViolaJonesHandler.exe.config
+E:\DOCUMENTS\Visual Studio 2015\Projects\ViolaJonesHandler\ViolaJonesHandler\obj\Debug\ViolaJonesHandler.exe
+E:\DOCUMENTS\Visual Studio 2015\Projects\ViolaJonesHandler\ViolaJonesHandler\obj\Debug\ViolaJonesHandler.pdb
+D:\New folder\ViolaJonesService\ViolaJonesHandler\obj\Debug\ViolaJonesHandler.csprojResolveAssemblyReference.cache
+D:\New folder\ViolaJonesService\ViolaJonesHandler\obj\Debug\ViolaJonesHandler.ProjectInstaller.resources
+D:\New folder\ViolaJonesService\ViolaJonesHandler\obj\Debug\ViolaJonesHandler.Service1.resources
+D:\New folder\ViolaJonesService\ViolaJonesHandler\obj\Debug\ViolaJonesHandler.csproj.GenerateResource.Cache
+D:\New folder\ViolaJonesService\ViolaJonesHandler\obj\Debug\ViolaJonesHandler.csproj.CoreCompileInputs.cache
+D:\New folder\ViolaJonesService\ViolaJonesHandler\obj\Debug\ViolaJonesHandler.exe
+D:\New folder\ViolaJonesService\ViolaJonesHandler\obj\Debug\ViolaJonesHandler.pdb
+D:\New folder\ViolaJonesService\ViolaJonesHandler\bin\Debug\ViolaJonesHandler.exe.config
+D:\New folder\ViolaJonesService\ViolaJonesHandler\bin\Debug\ViolaJonesHandler.exe
+D:\New folder\ViolaJonesService\ViolaJonesHandler\bin\Debug\ViolaJonesHandler.pdb
